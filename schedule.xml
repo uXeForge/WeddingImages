@@ -661,11 +661,11 @@
         </div>
       </div>
       <div class="node">
-        <!-- Vlož sem cestu k svojmu obrázku (napr. "images/auto.png") -->
-        <img src="https://r2.image-upload.app/ptImg/U29KcTSU.png" alt="arrival.png" />
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/carrightt.png" alt="arrival.png" />
       </div>
       <div class="spacer">
-        <img src="https://r2.image-upload.app/ptImg/U9HsaWsO.png" alt="downleft.png" />
+        <!-- TODO: nahrať downleft.png na GitHub a nahradiť túto URL -->
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/downleft.png" alt="downleft.png" />
       </div>
     </div>
 
@@ -679,7 +679,7 @@
         </div>
       </div>
       <div class="node">
-        <img src="https://r2.image-upload.app/ptImg/aO3BC56i.png" alt="ceremony.png" />
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/ceremony.png" alt="ceremony.png" />
       </div>
     </div>
 
@@ -693,7 +693,7 @@
         </div>
       </div>
       <div class="node">
-        <img src="https://r2.image-upload.app/ptImg/2WYT0YIy.png" alt="cake.png" />
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/cake.png" alt="cake.png" />
       </div>
     </div>
 
@@ -707,11 +707,11 @@
         </div>
       </div>
       <div class="node">
-        <!-- Vlož sem cestu k svojmu obrázku (napr. "images/auto.png") -->
-        <img src="https://r2.image-upload.app/ptImg/zOg8MpB9.png" alt="memories.png" />
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/memories.png" alt="memories.png" />
       </div>
       <div class="spacer">
-        <img src="https://r2.image-upload.app/ptImg/1fNjhYBFl.png" alt="downright.png" />
+        <!-- TODO: nahrať downright.png na GitHub a nahradiť túto URL -->
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/downright.png" alt="downright.png" />
       </div>
     </div>
 
@@ -725,8 +725,7 @@
         </div>
       </div>
       <div class="node">
-        <!-- Vlož sem cestu k svojmu obrázku (napr. "images/auto.png") -->
-        <img src="https://r2.image-upload.app/ptImg/ZgKpnoJu.png" alt="DINNER.png" />
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/dinner.png" alt="dinner.png" />
       </div>
     </div>
 
@@ -741,8 +740,7 @@
         </div>
       </div>
       <div class="node">
-        <!-- Vlož sem cestu k svojmu obrázku (napr. "images/auto.png") -->
-        <img src="https://r2.image-upload.app/ptImg/LGh7VZ0B.png" alt="celebration.png" />
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/celebration.png" alt="celebration.png" />
       </div>
     </div>
 
@@ -756,10 +754,11 @@
         </div>
       </div>
       <div class="node">
-        <img src="https://r2.image-upload.app/ptImg/LZ6qNqG9.png" alt="car bey.png" />
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/carleft.png" alt="carleft.png" />
       </div>
       <div class="spacer">
-        <img src="https://r2.image-upload.app/ptImg/U9HsaWsO.png" alt="downleft.png" />
+        <!-- TODO: nahrať downleft.png na GitHub a nahradiť túto URL -->
+        <img src="https://raw.githubusercontent.com/uXeForge/WeddingImages/main/downleft.png" alt="downleft.png" />
       </div>
     </div>
 
